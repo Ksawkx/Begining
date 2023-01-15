@@ -1,0 +1,9 @@
+.container {
+    width: 1440px;
+  }
+
+body {
+    background-image: url("../img/bc_1.jpg");
+    background-position: auto;
+    background-repeat: no-repeat;
+}
